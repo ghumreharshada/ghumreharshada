@@ -1,34 +1,37 @@
-### 👋 Hi there, I'm Harshada Ghumre!
 
-💻 Full Stack Developer | Java | Spring Boot | React | SQL  
-🎯 Passionate about building scalable web apps and learning new technologies.
+ 👋 Hello! I'm Harshada Ghumre
 
-🛠️ **Tech Stack:**
-- Backend: Java, Spring Boot, Hibernate,Spring,Springboot,JPA
-- Frontend: React.js, HTML, CSS, JavaScript
-- Database: MySQL,
-- Tools: Git, Docker, Postman, VS Code
-
-📚 Currently learning: SpringBoot 
-🔗 [LinkedIn](https://www.linkedin.com/in/harshada-ghumre-061025248/) | [Portfolio](https://your-portfolio-link)
+💻 **Full Stack Developer** specializing in scalable and efficient web applications.
 
 ---
-🔍 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshada-ghumre&show_icons=true&theme=radical)
 
-## Hi there 👋
+## 🚀 Key Features
 
-<!--
-**ghumreharshada/ghumreharshada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔧 **Robust Backend Engineering:** Expertise in Java, Spring Boot, Hibernate, and JPA
+- 🎨 **Interactive Frontend Development:** Skilled in React.js, HTML, CSS, and JavaScript
+- 🗄️ **Reliable Data Layer:** Proficient in MySQL, with a focus on clean schema design
+- 🧪 **Tooling & Workflow:** Familiar with Git for version control, Docker for containerization, Postman for API testing, and VS Code as the development environment
+- 📦 **Modular Architecture:** Writing clean, maintainable code with a microservices mindset
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔄 Actively Evolving
+
+- 🔍 Deepening knowledge of Spring Boot's advanced capabilities
+- ⚙️ Optimizing backend performance with practical system design
+- 💡 Building side projects to experiment with new tech stacks and patterns
+
+---
+
+## 🌐 Connect With Me
+
+- [LinkedIn](#)
+- [Portfolio](#)
+
+---
+
+💬 Let’s collaborate on code that solves real problems!
+
+
+Would you like a version tailored for recruiters or to showcase recent projects? I can tweak the tone depending on the audience you're targeting.
+
