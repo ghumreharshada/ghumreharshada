@@ -29,6 +29,17 @@
 - [Portfolio](#)
 
 ---
+## 📄 Quick Facts
+
+- 📍 Based in Pune, India  
+- 🎓 B.Tech in Computer Science  
+- 🗣️ Languages: English, Hindi, Marathi  
+🌐 Contact & Links
+
+
+
+
+
 
 💬 Let’s collaborate on code that solves real problems!
 
