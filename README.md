@@ -35,7 +35,7 @@
 - 📍 Based in Pune, India  
 - 🎓 B.Tech in Computer Science  
 - 🗣️ Languages: English, Hindi, Marathi  
-🌐 Contact & Links
+
 
 
 
