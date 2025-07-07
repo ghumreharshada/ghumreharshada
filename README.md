@@ -10,6 +10,7 @@
 - 🔧 **Robust Backend Engineering:** Expertise in Java, Spring Boot, Hibernate, and JPA
 - 🎨 **Interactive Frontend Development:** Skilled in React.js, HTML, CSS, and JavaScript
 - 🗄️ **Reliable Data Layer:** Proficient in MySQL, with a focus on clean schema design
+- 📚 Currently exploring Spring Boot microservices and backend optimization 
 - 🧪 **Tooling & Workflow:** Familiar with Git for version control, Docker for containerization, Postman for API testing, and VS Code as the development environment
 - 📦 **Modular Architecture:** Writing clean, maintainable code with a microservices mindset
 
