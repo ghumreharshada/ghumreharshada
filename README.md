@@ -25,13 +25,11 @@
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](#)
+- [LinkedIn](https://www.linkedin.com/in/harshada-ghumre-061025248/)
 - [Portfolio](#)
 
 ---
 
 💬 Let’s collaborate on code that solves real problems!
 
-
-Would you like a version tailored for recruiters or to showcase recent projects? I can tweak the tone depending on the audience you're targeting.
 
